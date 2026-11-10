@@ -23,6 +23,7 @@ A curated list of the best tools, servers, and frameworks for building autonomou
 - **[Context Bridge](https://github.com/jusspound-netizen/context-bridge)** - One MCP endpoint for Jira, Sentry, and GitHub Actions.
 - **[Aave Risk Monitor](https://github.com/graphprotocol/graph-aave-mcp)** - Real-time Aave liquidation risk data across 5 chains.
 - **[Playwright MCP](https://github.com/executeautomation/mcp-playwright)** - Browser automation and web scraping.
+- **[agent-qa](https://vostride.com)** - Natural-language web and mobile QA with persistent memidex memory, validated self-improvement, and recorded run evidence.
 
 ## Agent Frameworks
 - **[LangGraph](https://github.com/langchain-ai/langgraph)** - Build stateful, multi-actor applications with LLMs.
