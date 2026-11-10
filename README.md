@@ -1,8 +1,8 @@
 # Awesome MCP Agents & Developer Tools
 
-A curated list of the best tools, servers, and frameworks for building autonomous AI agents in 2026. 
+A curated list of the best tools, servers, and frameworks for building autonomous AI agents in 2026.
 
-*Maintained by [Gio](https://www.agensi.io/creators/context-bridge) — Check out my paid AI skills on [Agensi](https://www.agensi.io/creators/context-bridge) for Jira, GitHub, and Python codebase mapping.*
+*Maintained by [Gio](https://www.agensi.io/r/CONTEXTBRIDGE?to=/creators/context-bridge) — Check out my paid AI skills on [Agensi](https://www.agensi.io/r/CONTEXTBRIDGE?to=/creators/context-bridge) for Jira, GitHub, and Python codebase mapping.*
 
 ## Contents
 - [MCP Servers (Official)](#mcp-servers-official)
@@ -36,10 +36,10 @@ A curated list of the best tools, servers, and frameworks for building autonomou
 - **[Llama 3.1](https://ollama.com/library/llama3.1)** - The standard 8B model for agentic workflows.
 
 ## Developer Skills (Agensi)
-- **[Jira Ticket Fetcher](https://www.agensi.io/creators/context-bridge)** - Fetch single Jira tickets directly into Claude/Cursor.
-- **[Jira Power Pack](https://www.agensi.io/creators/context-bridge)** - Search via JQL, read, and comment on Jira.
-- **[Repo Map Generator](https://www.agensi.io/creators/context-bridge)** - AST-based Python code mapping to save context tokens.
-- **[GitHub Actions Fetcher](https://www.agensi.io/creators/context-bridge)** - Read CI/CD status and logs.
+- **[Jira Ticket Fetcher](https://www.agensi.io/r/CONTEXTBRIDGE?to=/creators/context-bridge)** - Fetch single Jira tickets directly into Claude/Cursor.
+- **[Jira Power Pack](https://www.agensi.io/r/CONTEXTBRIDGE?to=/creators/context-bridge)** - Search via JQL, read, and comment on Jira.
+- **[Repo Map Generator](https://www.agensi.io/r/CONTEXTBRIDGE?to=/creators/context-bridge)** - AST-based Python code mapping to save context tokens.
+- **[GitHub Actions Fetcher](https://www.agensi.io/r/CONTEXTBRIDGE?to=/creators/context-bridge)** - Read CI/CD status and logs.
 
 ---
 ## Contributing
