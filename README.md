@@ -1,5 +1,4 @@
 # Awesome MCP Agents & Developer Tools
-[![M8ven Verified](https://m8ven.ai/badge/mcp/jusspound-netizen-awesome-mcp-agents-uhmstg?variant=verified)](https://m8ven.ai/mcp/jusspound-netizen/awesome-mcp-agents-uhmstg)
 
 A curated list of the best tools, servers, and frameworks for building autonomous AI agents in 2026.
 
