@@ -3,7 +3,7 @@
 
 A curated list of the best tools, servers, and frameworks for building autonomous AI agents in 2026.
 
-*Maintained by [Gio](https://www.agensi.io/r/CONTEXTBRIDGE?to=/creators/context-bridge) — Check out my paid AI skills on [Agensi](https://www.agensi.io/r/CONTEXTBRIDGE?to=/creators/context-bridge) for Jira, GitHub, and Python codebase mapping.*
+*Maintained by [Gio](https://www.agensi.io/r/CONTEXTBRIDGE?to=/creators/context-bridge) - Check out my paid AI skills on [Agensi](https://www.agensi.io/r/CONTEXTBRIDGE?to=/creators/context-bridge) for Jira, GitHub, and Python codebase mapping.*
 
 ## Contents
 - [MCP Servers (Official)](#mcp-servers-official)
